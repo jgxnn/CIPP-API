@@ -808,6 +808,11 @@
         "Id": "41269fc5-d04d-4bfd-bce7-43a51cea049a",
         "Name": "Vulnerability.Read.All",
         "Description": "Allows the app to read any Threat and Vulnerability Management vulnerability information"
+      },
+      {
+        "Id": "ea8291d3-4b9a-44b5-bc3a-6cea3026dc79",
+        "Name": "Machine.Read.All",
+        "Description": "Allows the app to read all machine profiles, including the commands that were sent to each machine"
       }
     ]
   }
